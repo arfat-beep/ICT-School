@@ -1,0 +1,47 @@
+@media only screen and (max-width: 767px) {
+
+    
+    .course{
+        position: relative;
+        margin-left: -20px;
+        clear: both;
+        width: 180px;
+    }
+    .course-title2{
+        margin-top: 20px;
+        text-align: center;
+        width: 40px;
+        display: block;
+    }
+    .row{
+        margin-top: 25px;
+    }
+    .col{
+        width: 100%;
+        display: block;
+    }
+    .logo img{
+        display: none;
+    }
+    header{
+        text-align: center;
+    }
+    footer{
+        color: #ccc;
+        text-align: center;
+        background-color: #fff;
+    }
+    .social-icons{
+        display: inline-block;
+        width: 300px;
+    }
+    .social-icons ul{
+        text-align: center;
+    }
+    .social-icons ul li a{
+        margin-top: 30px;
+    }
+    .footer-img{
+        margin-left: 0;
+    }
+}
